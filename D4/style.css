@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap');
+.Heading{
+    color: brown;
+    font-size: 20px;
+}
+.Paragraph{
+    color: blue;
+    font-family: "Playwrite NL", cursive;
+}

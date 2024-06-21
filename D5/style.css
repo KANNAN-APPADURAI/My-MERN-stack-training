@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Paprika&family=Playwrite+IS:wght@100..400&display=swap');
+.Heading{
+    color:rgb(175, 136, 37);
+    font-family:"Playwrite IS",cursive ;
+    text-decoration:underline;
+    text-align: center;
+}
+.Para{
+    font-family: "Paprika", system-ui;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration:none;
+    text-align:start;
+}
